@@ -6,4 +6,3 @@
 1500 1024 Amatour
 1000 512 Beginner
 500 256 Fool
-10 4 Person_who_thinks_that_socialism_works

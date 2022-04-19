@@ -1,0 +1,9 @@
+15000 10192 Autor
+10000 5096 TryMe!!!
+4000 2048 Legend
+2500 2048 Master
+2000 1024 Profesional
+1500 1024 Amatour
+1000 512 Beginner
+500 256 Fool
+10 4 Person_who_thinks_that_socialism_works
